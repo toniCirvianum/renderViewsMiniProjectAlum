@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; color: #1e293b; background: #f8fafc; }
+header, footer { background: #0f172a; color: white; padding: 16px 24px; }
+header h1 { margin: 0 0 10px; }
+nav a { color: #bae6fd; margin-right: 16px; }
+main { max-width: 820px; margin: 28px auto; padding: 24px; background: white; border-radius: 10px; }
+li { padding: 5px 0; } a { color: #0369a1; }
+.admin-header { background: #4c1d95; }
